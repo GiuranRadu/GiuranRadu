@@ -10,9 +10,10 @@ Passionate | Organized | Analytical
 🔹In my role, I focus on creating and maintaining high-quality web applications. 
 
 🔹Alongside my professional work, I also serve as a Frontend Trainer at NewTech Academy, sharing my expertise and helping others grow in their web development journey. 👨‍🎓
-===================================================================================================================================
 
 With a robust background in both web development and hardware expertise, I bring a unique blend of technical and organizational skills to the tech world.
+-----------------------------------
+
 
 • Develop and maintain RESTful APIs using Node.js and MongoDB for seamless data integration.
 
