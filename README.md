@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate | Organized | Analytical
 -----------------------------------
 
-🔹I am currently a Frontend Developer at SecretCode and a Trainer Assistant at NewTech Academy. 
+🔹I am currently a E-commerce Developer & Web Administrator at SC POLI GUN SRL and a Trainer Assistant at NewTech Academy. 
 
 🔹In my role, I focus on creating and maintaining high-quality web applications. 
 
