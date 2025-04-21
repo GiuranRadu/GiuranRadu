@@ -7,7 +7,7 @@ Passionate | Organized | Analytical
 
 🔹I am currently a E-commerce Developer & Web Administrator at SC POLI GUN SRL and a Trainer Assistant at NewTech Academy. 
 
-🔹In my role, I focus on creating and maintaining high-quality web applications. 
+🔹In my current role, I develop custom <em>PrestaShop modules</em> from scratch, integrate them into the platform, and ensure they meet specific business needs. Additionally, I perform cPanel backups, manage scheduled tasks using cron jobs, and handle on-site SEO as well as paid advertising campaigns to boost visibility and sales.
 
 🔹Alongside my professional work, I also serve as a Frontend Trainer at NewTech Academy, sharing my expertise and helping others grow in their web development journey. 👨‍🎓
 
