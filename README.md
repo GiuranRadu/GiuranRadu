@@ -27,7 +27,7 @@ With a robust background in both web development and hardware expertise, I bring
 * 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [My Portofolio](http://giuran-radu.netlify.app/)
 * ✉️  You can contact me at [giuran.radu@yahoo.com](mailto:giuran.radu@yahoo.com)
-* 🧠  I'm learning Next JS
+
 
 ### Skills
 
